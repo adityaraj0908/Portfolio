@@ -17,7 +17,6 @@ const App = ()=>
             <FeatureCards/>
             <ExperienceSection/>
             <TechStack/>
-            
             <Contact/>
             <Footer/>
         </>

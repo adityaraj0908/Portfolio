@@ -73,9 +73,9 @@ const logoIconsList = [
 
 const abilities = [
   {
-    imgPath: "/images/seo.png",
-    title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    imgPath: "/images/seo.png", // Icon for high quality
+    title: "High Quality Work",
+    desc: "We focus on the details to deliver work that meets the highest standards, every time.",
   },
   {
     imgPath: "/images/chat.png",
@@ -83,31 +83,31 @@ const abilities = [
     desc: "Keeping you updated at every step to ensure transparency and clarity.",
   },
   {
-    imgPath: "/images/time.png",
+    imgPath: "/images/time.png", // Icon for time/deadlines
     title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    desc: "Projects are completed efficiently to meet all agreed-upon deadlines without fail.",
   },
 ];
 
 const techStackImgs = [
   {
-    name: "React Developer",
-    imgPath: "/images/logos/react.png",
-  },
-  {
-    name: "Python Developer",
-    imgPath: "/images/logos/python.svg",
-  },
-  {
-    name: "Backend Developer",
+    name: "Back-End Development",
     imgPath: "/images/logos/node.png",
   },
   {
-    name: "Interactive Developer",
-    imgPath: "/images/logos/three.png",
+    name: "Front-End Development",
+    imgPath: "/images/logos/react.png",
   },
   {
-    name: "Project Manager",
+    name: "SQL / NoSQL Databases",
+    imgPath: "/images/logos/Postgresql.png",
+  },
+  {
+    name: "DevOps",
+    imgPath: "/images/logos/docker.png",
+  },
+  {
+    name: "Version Control",
     imgPath: "/images/logos/git.svg",
   },
 ];
@@ -160,7 +160,7 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Dayananda Sagar College of Engineering",

@@ -32,7 +32,7 @@ const Hero = ()=>
                 <header className='flex flex-col justify-center md:w-full w-screen md:px-20 px-5'>
                     <div className='flex flex-col gap-7'>
                         <div className='hero-text'>
-                            <h1>Shaping 
+                            <h1>Turning 
                                 <span className='slide'>
                                     <span className='wrapper'>
                                         {words.map((word) =>
@@ -50,8 +50,8 @@ const Hero = ()=>
                                     </span>
                                 </span>
                             </h1>
-                            <h1>into Real Projects</h1>
-                            <h1>that Deliver Results</h1>
+                            <h1>into Impactful</h1>
+                            <h1>and Scalable Products</h1>
 
                         </div>
                         <p className='text-white-50 md:text-xl relative z-10 pointer-events-none'>
