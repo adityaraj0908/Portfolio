@@ -164,7 +164,7 @@ const expCards = [
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
     title: "Dayananda Sagar College of Engineering",
-    date: "NOv 2022 - present",
+    date: "Nov 2022 - present",
     responsibilities: [
       "Moved to Bengaluru to pursue a Bachelor's degree in Computer Science and Engineering.",
       "Maintained a GPA above 9 during the course.",
