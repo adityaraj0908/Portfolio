@@ -33,7 +33,11 @@ const NavBar = () => {
           <ul>
             {navLinks.map(({ link, name }) => (
               <li key={name} className="group">
-                <a href={link}>
+                <a
+                  href={link}
+                  target={name === "Resume" ? "_blank" : "_self"}
+                  rel={name === "Resume" ? "noopener noreferrer" : undefined}
+                >
                   <span>{name}</span>
                   <span className="underline" />
                 </a>
@@ -50,6 +54,6 @@ const NavBar = () => {
       </div>
     </header>
   );
-}
+};
 
 export default NavBar;
