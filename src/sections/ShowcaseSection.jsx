@@ -81,7 +81,7 @@ const ShowcaseSection = () => {
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/project3.png" alt="We Need" />
               </div>
-              <h2>We Need: Request and Response</h2>
+              <h2>We Need: Disaster Relief & SOS System</h2>
             </div>
           </div>
         </div>
