@@ -75,7 +75,7 @@ const abilities = [
   {
     imgPath: "/images/seo.png", // Icon for high quality
     title: "High Quality Work",
-    desc: "We focus on the details to deliver work that meets the highest standards, every time.",
+    desc: "I focus on the details to deliver work that meets the highest standards, every time.",
   },
   {
     imgPath: "/images/chat.png",
