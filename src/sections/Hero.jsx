@@ -58,11 +58,11 @@ const Hero = ()=>
                             Hi, I'm Aditya, a developer based in Bengaluru,with a passion for code.
                             {/* India with a keen interest in building scalable and efficient applications. */}
                         </p>
-                        <Button
+                        {/* <Button
                          className='md:w-80 md:h-16 w-60 h:12'
                          id='button'
                          text="See my Work"
-                        />
+                        /> */}
                     </div>
                     
                 </header>
